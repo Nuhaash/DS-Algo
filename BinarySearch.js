@@ -1,18 +1,3 @@
-// !------------LINEAR SEARCH ALGO----------!
-
-let arr = [12, 43, 26, 74, 29, 41, 58, 91, 10];
-let target = 58;
-
-function linearSearch(arr, target){
-    for (let i=0; i< arr.length; i++){
-        console.log(arr[i]); 
-    }
-
-}
-
-console.log(linearSearch(arr, target));
-
-
 // !------------BINARY SEARCH ALGO----------!
 
 
